@@ -26,4 +26,4 @@ Made with python. Requires python 3.\* installed. May work with python 2.\*, *bu
 ## ***DISCLAIMER***
 
 ### **PROJECT IS IN BETA, SO MAKING BACKUPS IS NECESSARY!**
-### **AUTHOR IS NOT RESPONSIBLE FOR ANY HARM, CAUSED BY THIS PROGRAM.**
+### **AUTHOR IS NOT RESPONSIBLE FOR ANY HARM CAUSED BY THIS PROGRAM.**
